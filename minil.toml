@@ -1,6 +1,7 @@
 name = "Minion-Backend-SQS"
 # badges = ["travis"]
 authority="cpan:ZAKAME"
+license="mit"
 
 module_maker="ModuleBuildTiny"
 

@@ -6,7 +6,7 @@
    "dynamic_config" : 0,
    "generated_by" : "Minilla/v2.4.1, CPAN::Meta::Converter version 2.150001",
    "license" : [
-      "perl_5"
+      "mit"
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
@@ -52,6 +52,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/zakame/Minion-Backend-SQS/issues"
+      },
+      "homepage" : "https://github.com/zakame/Minion-Backend-SQS",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/zakame/Minion-Backend-SQS.git",
+         "web" : "https://github.com/zakame/Minion-Backend-SQS"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:ZAKAME",
    "x_contributors" : [
