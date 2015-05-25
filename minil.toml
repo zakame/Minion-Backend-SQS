@@ -1,0 +1,6 @@
+name = "Minion-Backend-SQS"
+# badges = ["travis"]
+authority="cpan:ZAKAME"
+
+module_maker="ModuleBuildTiny"
+
